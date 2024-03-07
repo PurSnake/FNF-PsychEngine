@@ -154,7 +154,7 @@
 
 	<!--Macro fixes-->
 	<haxeflag name="--macro" value="allowPackage('flash')" />
-	<haxeflag name="--macro" value="include('my.pack')" />
+	<!--haxeflag name="--macro" value="include('my.pack')" /-->
 
 	<!-- _________________________________ Custom _______________________________ -->
 
